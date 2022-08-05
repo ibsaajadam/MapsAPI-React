@@ -1,5 +1,3 @@
-## Google Maps JavaScript API (Places API & Directions API), Chakra UI
-
 # Google Maps API Project
 
 Web App built out using the Google Maps API - specifically the Places & Directions API. Then built out and designed the site using Chakra UI. Finally deployed site using Netlify. Also took advantage of React.js hooks.
@@ -22,7 +20,7 @@ Web App built out using the Google Maps API - specifically the Places & Directio
 
 ## Live Demo
 
-View live demo here: [Demo]()
+View live demo here: [Demo](https://boisterous-sundae-6dbd4d.netlify.app/)
 
 ## Contact
 
